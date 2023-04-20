@@ -1,1 +1,1 @@
-# hypergate.brass.common-config
+# common-config.brass
